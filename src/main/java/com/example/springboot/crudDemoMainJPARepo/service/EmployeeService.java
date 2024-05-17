@@ -1,6 +1,6 @@
-package com.example.springboot.crudDemoMain.service;
+package com.example.springboot.crudDemoMainJPARepo.service;
 
-import com.example.springboot.crudDemoMain.entity.Employee;
+import com.example.springboot.crudDemoMainJPARepo.entity.Employee;
 
 import java.util.List;
 

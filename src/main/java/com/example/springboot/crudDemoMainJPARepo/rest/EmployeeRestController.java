@@ -1,9 +1,7 @@
-package com.example.springboot.crudDemoMain.rest;
+package com.example.springboot.crudDemoMainJPARepo.rest;
 
-import com.example.springboot.crudDemoMain.dao.EmployeeDAO;
-import com.example.springboot.crudDemoMain.entity.Employee;
-import com.example.springboot.crudDemoMain.service.EmployeeService;
-import com.example.springboot.crudDemoMain.service.EmployeeServiceImpl;
+import com.example.springboot.crudDemoMainJPARepo.entity.Employee;
+import com.example.springboot.crudDemoMainJPARepo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

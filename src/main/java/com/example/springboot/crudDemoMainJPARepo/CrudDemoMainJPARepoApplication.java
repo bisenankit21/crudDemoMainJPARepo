@@ -1,14 +1,14 @@
-package com.example.springboot.crudDemoMain;
+package com.example.springboot.crudDemoMainJPARepo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class
-CrudDemoMainApplication {
+CrudDemoMainJPARepoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudDemoMainApplication.class, args);
+		SpringApplication.run(CrudDemoMainJPARepoApplication.class, args);
 	}
 
 }
